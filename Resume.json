@@ -65,16 +65,6 @@
 			"Electronics and Communication Engineering"
 		]
 	}],
-	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
-	}],
-	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
-	}],
 	"skills": [{
 		"level": "Master",
 		"keywords": ["HTML", "CSS", "Javascript", "C", "Add more"]
