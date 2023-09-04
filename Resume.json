@@ -6,7 +6,7 @@
 		"email": "2020kuec2067@gmail.com",
 		"phone": "6396848826",
 		"website": "https://parvej0ali.github.io/MyResume.github.io/",
-		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication Engineering.",
+		"summary": "I'm a student of IIIT Kota (India), pursuing my B.tech in Electronics and Communication Engineering.",
 		"location": {
 			"address": "Harra",
 			"postalCode": "250344",
@@ -14,11 +14,7 @@
 			"countryCode": "India",
 			"region": "Uttar Pradesh"
 		},
-		"profiles": [{
-				"network": "Twitter",
-				"username": "ParvejA23595478",
-				"url": "https://www.twitter.com/ParvejA23595478"
-			},
+		"profiles": [
 			{
 				"network": "Github",
 				"username": "Parvej0Ali",
@@ -27,7 +23,7 @@
 			{
 				"network": "linkedin",
 				"username": "Parvej Ali",
-				"url": "https://www.linkedin.com/in/Parvej Ali/"
+				"url": "https://www.linkedin.com/in/parvej-ali-936256207/"
 			},
 			{
 				"network": "Instagram",
@@ -46,19 +42,19 @@
 		"highlights": ["Add Highlights", "Your work details"]
 	}],
 	"education": [{
-		"institution": "Indian Institute of Information technology,kota",
+		"institution": "Indian Institute of Information Technology, Kota",
 		"area": "Engineering",
-		"studyType": "Bachelor (hons)",
+		"studyType": "Bachelor of Technology",
 		"startDate": "2020-12-02",
-		"endDate": "2024-??-??",
-		"gpa": "7.9",
+		"endDate": "",
+		"gpa": "8.46",
 		"courses": [
 			"Electronics and Communication Engineering"
 		]
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "C", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript", "C", "C++", "ReactJs", "NodeJs", "ExpressJs", "MongoDB", "SQL"]
 	}],
 	"interests": [{
 		"name": "Sports",
